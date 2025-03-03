@@ -35,17 +35,6 @@ To develop a machine learning model capable of predicting the price of a used ca
 - **For Buyers**: Buyers will be able to find competitively priced cars more easily.
 - **For the Market**: The overall used car market in India will become more efficient, benefiting all stakeholders.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/EthenDcosta5/CarDekho-Price-Prediction---MachineLearning-Python.git
-   cd CarDekho-Price-Prediction---MachineLearning-Python
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 1. Run the data preprocessing script:
    ```bash
